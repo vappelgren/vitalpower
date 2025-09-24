@@ -1,0 +1,46 @@
+import type { TranslationContent } from '../types';
+
+export const translations: { [key: string]: TranslationContent } = {
+  es: {
+    headerTitle: "VitalPower Fusion",
+    headerLogoAlt: "Logo de Vital Leafs",
+    productTitle: "Potencia para la Salud a través de la Fusión de Ingredientes",
+    productDescription: "El suplemento VitalPower Fusion se presenta como una fusión inteligente de dos fórmulas potentes: una orientada a la energía celular y otra enfocada en el apoyo cardiovascular. Esta combinación sinérgica busca combatir el envejecimiento a nivel mitocondrial, promover la longevidad y mejorar el rendimiento físico y mental. Es un producto vegano, sin OGM y altamente biodisponible, formulado científicamente para una sinergia total.",
+    videoTitle: "Nuestro Producto en Acción",
+    galleryTitle: "Galería del Producto",
+    ingredientsTitle: "21 Ingredientes Poderosos",
+    feedbackTitle: "Comentarios Positivos de los Consumidores",
+    feedbackChartTitle: "Comentarios Positivos por Categoría (Número de Menciones)",
+    chartLabels: {
+      satisfaction: "Nivel de Energía y Resistencia",
+      energy: "Calidad y Formulación",
+      mentalClarity: "Frescura y Claridad Mental",
+      cardioHealth: "Facilidad de Uso y Conveniencia",
+      value: "Relación Calidad-Precio",
+    },
+    closeButton: "Cerrar",
+    ingredientBenefitsTitle: "Beneficios Clave",
+    improvedAreasTitle: "Áreas de Mejora",
+  },
+  en: {
+    headerTitle: "VitalPower Fusion",
+    headerLogoAlt: "Vital Leafs Logo",
+    productTitle: "Power for Health Through the Fusion of Ingredients",
+    productDescription: "The VitalPower Fusion supplement is presented as an intelligent fusion of two potent formulas: one oriented towards cellular energy and the other focused on cardiovascular support. This synergistic combination seeks to combat aging at the mitochondrial level, promote longevity, and enhance physical and mental performance. It is a vegan, non-GMO, and highly bioavailable product, scientifically formulated for total synergy.",
+    videoTitle: "Our Product in Action",
+    galleryTitle: "Product Gallery",
+    ingredientsTitle: "21 Powerful Ingredients",
+    feedbackTitle: "Positive Consumer Feedback",
+    feedbackChartTitle: "Positive Feedback by Category (Number of Mentions)",
+    chartLabels: {
+      satisfaction: "Energy Level & Stamina",
+      energy: "Quality & Formulation",
+      mentalClarity: "Freshness & Mental Clarity",
+      cardioHealth: "Ease of Use & Convenience",
+      value: "Value for Money",
+    },
+    closeButton: "Close",
+    ingredientBenefitsTitle: "Key Benefits",
+    improvedAreasTitle: "Areas of Improvement",
+  },
+};

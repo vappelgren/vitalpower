@@ -16,7 +16,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-black text-gray-200 font-sans">
       <header className="bg-black/80 backdrop-blur-lg shadow-lg shadow-gray-900/50 sticky top-0 z-40">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-          <img src="/image/logo.png" alt={t.headerLogoAlt} className="h-12 w-auto" />
+          <img src="/images/logo.png" alt={t.headerLogoAlt} className="h-12 w-auto" />
           <div className="flex space-x-2">
             <button
               onClick={() => setLanguage('es')}

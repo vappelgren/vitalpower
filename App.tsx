@@ -55,15 +55,15 @@ const App: React.FC = () => {
                 <div>
                     <h3 className="text-2xl font-bold mb-4 text-gray-100">{t.galleryTitle}</h3>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                        <img src="/image/product1.png" alt="Product shot 1" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product2.png" alt="Product shot 2" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product3.png" alt="Product shot 3" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product4.png" alt="Product shot 4" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product5.png" alt="Product shot 5" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product6.png" alt="Product shot 6" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product7.png" alt="Product shot 7" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product8.png" alt="Product shot 8" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
-                        <img src="/image/product9.png" alt="Product shot 9" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product1.png" alt="Product shot 1" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product2.png" alt="Product shot 2" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product3.png" alt="Product shot 3" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product4.png" alt="Product shot 4" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product5.png" alt="Product shot 5" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product6.png" alt="Product shot 6" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product7.png" alt="Product shot 7" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product8.png" alt="Product shot 8" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
+                        <img src="/images/product9.png" alt="Product shot 9" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square" />
                     </div>
                 </div>
             </div>
